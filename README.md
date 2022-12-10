@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me
 
-I am a former technology consultant at PwC Belgium currently enrolled in school 42's computer science training program (https://42.fr/en/homepage/).
+🚀Software Dev @Web3xplore | 🍄 Smurfer @SmurfsSociety | School 42 alumni (https://42.fr/en/homepage/).
 
 ### :mailbox: To reach out
 [![Linkedin Badge](https://img.shields.io/badge/-Maxime_Servais-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maximeservais/)
