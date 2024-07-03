@@ -10,9 +10,9 @@
 
 ### :man_technologist: About Me
 
-I'm a software developer with a passion for the Ethereum ecosystem. I created [ethereum-ecosystem.com](https://www.ethereum-ecosystem.com/), an unofficial Ecosystem Page for Ethereum and its Layer 2s. This comprehensive resource features over 900 dApps and tools across platforms like Optimism, Base, and Starknet. 
+I'm a software developer with a passion for the Ethereum ecosystem. I created [ethereum-ecosystem.com](https://www.ethereum-ecosystem.com/), an unofficial Ecosystem Page for Ethereum and its Layer 2s that provides a wealth of info on +1000 dApps and tools across Optimism, Base, Starknet and more. 
 
-Leveraging the success and expertise gained from this project, I'm now offering my services as a freelancer to build custom Ecosystem Pages for other blockchains: https://www.web3xplore.com/. These pages are designed with advanced functionalities, including filtering and search capabilities, making it incredibly easy for users to discover dApps. My goal is to not only simplify the discovery process but also to highlight the unique aspects of blockchains and their builders.
+If you would like me to build a custom Ecosystem Page for your blockchain, designed with advanced functionalities - including filtering and search capabilities, making it incredibly easy for users to discover dApps, check https://www.web3xplore.com/ and reach out!
 
 ### :mailbox: To reach out
 [![Linkedin Badge](https://img.shields.io/badge/-Maxime_Servais-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maximeservais/)
