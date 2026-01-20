@@ -10,9 +10,11 @@
 
 ### :man_technologist: About Me
 
-I'm a software developer currently building the ethcc.io website and creating internal web apps for managing speakers and event scheduling.
+I'm a software developer & co-founder of [Uncap Finance](https://uncap.finance)
 
-I founded [ethereum-ecosystem.com](https://www.ethereum-ecosystem.com/), an unofficial Ecosystem Page for Ethereum and its Layer 2s that provides a wealth of info on +1000 dApps and tools across Optimism, Base, Starknet and more and allows users to leave onchain reviews. 
+I was previously a software dev for EthCC (building the ethcc.io website and creating internal web apps for managing speakers and event scheduling).
+
+In 2022, I founded [ethereum-ecosystem.com](https://www.ethereum-ecosystem.com/), an unofficial Ecosystem Page for Ethereum and its Layer 2s that provides a wealth of info on +1000 dApps and tools across Optimism, Base, Starknet and more and allows users to leave onchain reviews. The project is still live but not maintained.
 
 
 ### :mailbox: To reach out
